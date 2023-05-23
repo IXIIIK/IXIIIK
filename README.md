@@ -4,7 +4,9 @@
 <ul>
    <li>Hexlet</li>
 </ul>
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IXIIIK)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IXIIIK&layout=compact)](https://github.com/IXIIIK/github-readme-stats)
 
 
