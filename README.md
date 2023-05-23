@@ -5,10 +5,8 @@
    <li>Hexlet</li>
 </ul>
   
-<h3>My hard skills:</h3>
-<ul>
-   <li>Python</li>
-</ul>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IXIIIK&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IXIIIK&show_icons=true&theme=transparent)
 
