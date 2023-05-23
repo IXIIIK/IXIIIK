@@ -10,6 +10,9 @@
    <li>Python</li>
 </ul>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IXIIIK&show_icons=true&theme=transparent)
+
+
 <h3>About Me:</h3>
 <p>
   I work as a barista at a Moscow coffee house,<br>
