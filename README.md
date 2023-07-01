@@ -4,12 +4,6 @@
 <ul>
    <li><h3>Hexlet</h3></li>
 </ul>
-
-<h1>About Me:</h1>
-<h3>
-  I work as a barista at a Moscow coffee house,<br>
-  in my free time I study development and write scripts in python
-</h3>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IXIIIK)](https://github.com/anuraghazra/github-readme-stats)
