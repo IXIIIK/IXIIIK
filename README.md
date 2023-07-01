@@ -6,8 +6,8 @@
 </ul>
 <h1>My contact</h1>
 <ul>
-   <li>mail: <h3>ilya@sinits.in</h3></li>
-   <li>telegram: <h3>@Dippa</h3></li>
+   <li><h3>mail: ilya@sinits.in</h3></li>
+   <li><h3>telegram: @Dippa</h3></li>
 </ul>
 <br>
 
