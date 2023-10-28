@@ -1,38 +1,35 @@
+
+
 <div id="header" align="center">
-    <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' width="100"/>
+    <img src='https://media.giphy.com/media/c0Jwn0I22a3XHgPaft/giphy.gif' width="100"/>
 </div>
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-
-
-<h1>👋 Hi, I’m Ilya</h1>
-
-<h1>My education:</h1>
-<ul>
-   <li><h3>Hexlet</h3></li>
-</ul>
-<h1>My contact</h1>
-<ul>
-   <li><h3>mail: ilya@sinits.in</h3></li>
-   <li><h3>telegram: @Dippa</h3></li>
-</ul>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IXIIIK)](https://github.com/anuraghazra/github-readme-stats)
+<div id="badges" align='center'>
+  <a href="https://t.me/Dippa">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IXIIIK&show_icons=true&theme=transparent)
-<!---
-IXIIIK/IXIIIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align='center'>
+    <img src="https://komarev.com/ghpvc/?username=IXIIIK&style=flat-square&color=blue" alt=""/>
+</div>
+
+---
+### :man_technologist: About Me :
+
+- 👨‍🎓: My education: Hexlet.
+- 📫: My mail: ilya@sinits.in
+
+### ⚒️: Langueges and tools:
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
+
+---
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IXIIIK&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IXIIIK&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
