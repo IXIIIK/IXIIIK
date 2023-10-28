@@ -19,7 +19,7 @@
 ---
 ### :man_technologist: About Me :
 
-- 👨‍🎓: My education: Hexlet.
+- 👨‍🎓: My education: Hexlet
 - 📫: My mail: ilya@sinits.in
 
 ### ⚒️: Langueges and tools:
